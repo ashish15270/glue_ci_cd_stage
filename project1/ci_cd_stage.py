@@ -1,3 +1,5 @@
 import sys
 
-print("Hello World")
+from gav import message
+
+print(message)
