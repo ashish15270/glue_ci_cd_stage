@@ -22,5 +22,5 @@ def create_dataframe():
     
 def test_col_name():
     assert "id" in df.columns
-    print("paased")
+    print("passed")
 job.commit()
